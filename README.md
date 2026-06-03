@@ -1,8 +1,8 @@
 # Manual
 
-Cloud PDF manual/reference library.
+Cloud manual/reference library.
 
-_Updated: 2026-06-03 23:38:26_
+_Updated: 2026-06-04 04:15:39_
 
 ## PDF Files
 
@@ -11,6 +11,7 @@ _Updated: 2026-06-03 23:38:26_
 - [IU01-manual-english.pdf](IU01-manual-english.pdf) (328.97 KB)
 - [Manual- Case- Phantek- PH-ES614P.pdf](Manual-%20Case-%20Phantek-%20PH-ES614P.pdf) (13.65 MB)
 - [mobo-e9680_z10pe-d8_ws_ug_v2.pdf](mobo-e9680_z10pe-d8_ws_ug_v2.pdf) (7.90 MB)
+- [SkyX7Cm430_UserManual.pdf](SkyX7Cm430_UserManual.pdf) (6.98 MB)
 
 ## Image Files
 
@@ -22,4 +23,4 @@ _Updated: 2026-06-03 23:38:26_
 
 ## Text Files
 
-- [README.md](README.md) (595 B)
+- [README.md](README.md) (792 B)
